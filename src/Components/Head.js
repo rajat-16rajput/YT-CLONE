@@ -1,9 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { toggleUserMenu, toggleSidebar } from "../Utils/appSlice";
 
 const Head = () => {
+  const [userStatus, setUserStatus] = useState(false);
   const dispatch = useDispatch();
+  const [search, setSearch] = useState("");
 
   // this will dispatch an action
   function toggleSidebarHandler() {
@@ -21,13 +23,24 @@ const Head = () => {
     dispatch(toggleUserMenu());
   }
 
+  function handleChange(e) {
+    setSearch(e.target.value);
+    console.log("Value typed");
+    console.log(search);
+  }
+
+  function handleSearch() {}
+
+  function toggleBtn() {
+    setUserStatus(!userStatus);
+  }
   return (
     <div className="grid grid-flow-col p-5 m-2 shadow-lg ">
-      <div className="flex px-2 col-span-1 ">
+      <div className="flex px-3 col-span-1 ">
         <img
           alt="Hamburger"
           src="https://www.svgrepo.com/show/524617/hamburger-menu.svg"
-          className="h-10 cursor-pointer"
+          className="h-10 cursor-pointer pr-8"
           onClick={() => {
             toggleSidebarHandler();
           }}
@@ -43,13 +56,32 @@ const Head = () => {
         <input
           type="text"
           className="border border-gray-200 rounded-l-2xl w-3/4 ml-10 p-2 "
+          value={search}
+          onChange={(e) => {
+            handleChange(e);
+          }}
         />
-        <button className="p-2 bg-gray-200 border border-gray-200  rounded-r-2xl">
+        <button
+          className="p-2 bg-gray-200 border border-gray-200  rounded-r-2xl "
+          onClick={() => {
+            handleSearch();
+          }}
+        >
           <img
             alt="search"
             src="https://www.svgrepo.com/show/7109/search.svg"
             className="h-6"
           />
+        </button>
+      </div>
+      <div>
+        <button
+          className="bg-slate-200 "
+          onClick={() => {
+            toggleBtn();
+          }}
+        >
+          {userStatus ? "Login" : "Logout"}
         </button>
       </div>
       <div className="col">

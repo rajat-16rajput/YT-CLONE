@@ -1,5 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   const isSidebarEnabled = useSelector(function (store) {
@@ -12,25 +13,29 @@ const Sidebar = () => {
     <div className="w-48 p-5 shadow-lg">
       <ol className="font-bold">
         <li>
-          <div className="flex mt-2">
-            <div>
-              <img
-                alt="home"
-                src="https://www.svgrepo.com/show/535437/home.svg"
-                className="h-6 mr-4 "
-              />
+          <Link to="/">
+            <div className="flex mt-2">
+              <div>
+                <img
+                  alt="home"
+                  src="https://www.svgrepo.com/show/535437/home.svg"
+                  className="h-6 mr-4 "
+                />
+              </div>
+              <div>Home</div>
             </div>
-            <div>Home</div>
-          </div>
+          </Link>
         </li>
-        <div className="flex mt-2">
-          <img
-            src="https://www.svgrepo.com/show/506687/youtube-play.svg"
-            alt="shorts logo"
-            className="h-8 mr-4 mt-2"
-          />
-          <li className="h-8 mr-4 mt-3">Shorts</li>
-        </div>
+        <Link to="/shorts">
+          <div className="flex mt-2">
+            <img
+              src="https://www.svgrepo.com/show/506687/youtube-play.svg"
+              alt="shorts logo"
+              className="h-8 mr-4 mt-2"
+            />
+            <li className="h-8 mr-4 mt-3">Shorts</li>
+          </div>
+        </Link>
 
         <div className="flex mt-2">
           <img
