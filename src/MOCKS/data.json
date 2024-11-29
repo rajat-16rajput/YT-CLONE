@@ -1,0 +1,1679 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "GgAjKGAB1QpiINL5wKLtN7CHrwc",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "lFKfJsGCpgjN5FaF9YolEVPnKoA",
+      "id": "6TK--iArtQM",
+      "snippet": {
+        "publishedAt": "2024-11-29T05:00:11Z",
+        "channelId": "UC3_471gFY-nl4Fi0MX8eoIQ",
+        "title": "Juice WRLD - Misfit",
+        "description": "Music video by Juice WRLD performing Misfit.© 2024 Grade A Productions, LLC, under exclusive license to Interscope",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6TK--iArtQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6TK--iArtQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6TK--iArtQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6TK--iArtQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6TK--iArtQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JuiceWRLDVEVO",
+        "tags": [
+          "Juice WRLD",
+          "Grade Productions/Interscope Records",
+          "Hip Hop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Juice WRLD - Misfit",
+          "description": "Music video by Juice WRLD performing Misfit.© 2024 Grade A Productions, LLC, under exclusive license to Interscope"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "325273",
+        "likeCount": "53980",
+        "favoriteCount": "0",
+        "commentCount": "6142"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8okvN82ioBZCiOqG7T7eFatlh1k",
+      "id": "kqSQp1GMuDo",
+      "snippet": {
+        "publishedAt": "2024-11-28T15:36:58Z",
+        "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+        "title": "Macy's Thanksgiving Day parade 2024: LIVE from New York",
+        "description": "Watch live from the route of the 2024 Macy’s Thanksgiving Day parade in New York.\nThe 98th edition will feature 17 giant character balloons, 22 floats, 15 novelty and heritage inflatables, 11 marching bands, 700 clowns and 10 performance groups.\n\n#macysthanksgivingdayparade #thanksgiving #macys #balloons #newyork #usa #news #live",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kqSQp1GMuDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kqSQp1GMuDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kqSQp1GMuDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kqSQp1GMuDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kqSQp1GMuDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Associated Press",
+        "tags": [
+          "associated press",
+          "ap news",
+          "news",
+          "news live",
+          "latest news",
+          "live news"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Macy's Thanksgiving Day parade 2024: LIVE from New York",
+          "description": "Watch live from the route of the 2024 Macy’s Thanksgiving Day parade in New York.\nThe 98th edition will feature 17 giant character balloons, 22 floats, 15 novelty and heritage inflatables, 11 marching bands, 700 clowns and 10 performance groups.\n\n#macysthanksgivingdayparade #thanksgiving #macys #balloons #newyork #usa #news #live"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H41M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "957726",
+        "likeCount": "3829",
+        "favoriteCount": "0",
+        "commentCount": "282"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uMF9ndaccgOysViCgBQzeJzgdVU",
+      "id": "YEYu4cD5KAU",
+      "snippet": {
+        "publishedAt": "2024-11-29T05:01:13Z",
+        "channelId": "UC0BletW9phE4xHFM44q4qKA",
+        "title": "Juice WRLD - The Party Never Ends (Official Music Video)",
+        "description": "Juice WRLD’s “The Party Never Ends” is out now! https://juicewrld.lnk.to/ThePartyNeverEnds\n \nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nThe Party has started 🎉 \nhttps://www.thepartyneverends.com \n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #ThePartyNeverEnds #999",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YEYu4cD5KAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YEYu4cD5KAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YEYu4cD5KAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YEYu4cD5KAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YEYu4cD5KAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Juice WRLD",
+        "tags": ["JuiceWRLD", "juiceworld", "juice world", "juice wrld", "999"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Juice WRLD - The Party Never Ends (Official Music Video)",
+          "description": "Juice WRLD’s “The Party Never Ends” is out now! https://juicewrld.lnk.to/ThePartyNeverEnds\n \nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nThe Party has started 🎉 \nhttps://www.thepartyneverends.com \n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #ThePartyNeverEnds #999"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "355472",
+        "likeCount": "47995",
+        "favoriteCount": "0",
+        "commentCount": "5129"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vkHfEnfD_aj93-qDd8EhCq6YfOI",
+      "id": "Ej1sgA3wxkk",
+      "snippet": {
+        "publishedAt": "2024-11-29T00:18:15Z",
+        "channelId": "UC5Qbo0AR3CwpmEq751BIy0g",
+        "title": "Top 50 Best Black Friday Deals 2024 🤑 (Updated Hourly!!)",
+        "description": "The brand new deals are crazy this Black Friday 2024! Here are all the top deals I found on the products you care about from Amazon, Target, Walmart and More!\n\n👇🏼 MY TOP 50 BLACK FRIDAY DEAL LIST: 👇🏼 \n(These are affiliate links. If you buy something through these links I may get a small share of the sale.)\n\nMY MUST BUYS: 👀 (**affiliate links)\n🤑 $99 40\" TV: https://bit.ly/3AXxZVr\n🤑 99¢ Hulu Deal: https://bit.ly/417HgD7\n🤑 $2.99 Disney Plus & Hulu: https://bit.ly/m/thedealguy\n🤑 $20 Sams Membership Deal: https://bit.ly/40T6LYt (Limited time!)\n🤑 3 Pack 10FT USB Cables: https://bit.ly/49cLME9\n🤑 3 Pack 10FT USB Cables: https://bit.ly/4eQ9mrB (USB A)\n🤑 100FT LED Strip Lights: https://bit.ly/4g7DVd8 ($15!!)\n🤑 $39 Tree: https://walmrt.us/3N2ik9P\n🤑 $65 Robo Vac: https://walmrt.us/4f6OhJL\n🤑 $149 Apple Watch: https://bit.ly/4fMBddB\n🤑 Power Bank w/ Cables: https://bit.ly/3Ouu2ur (JUST $15!)\n🤑 3 Months of Amazon Music Free: https://bit.ly/3ZsJMnS\n🤑 Fanttik Car Vacuum: https://bit.ly/4ikz3Ue (Code: BFV7ACEBG)\n🤑 Under $5 Slippers: https://walmrt.us/3CIW5Ug\n\n⚡️ NEW UPDATED HOURLY DEALS: (**affiliate links)\n🔥 $94 43\" TV!! https://walmrt.us/412SryN\n🔥 5.5QT KitchenAid $279!! https://walmrt.us/41e2wJr\n🔥 $25 Carry-on: https://walmrt.us/4eJQ0Ej\n🔥 $399 75\" TV!! https://bit.ly/4fKq7FO\n\nALL THE DEALS IN THE VIDEO! (**affiliate links)\n🤑 85\" 4K TV: https://walmrt.us/4eQl3hO\n🤑 2 Pack Hand Warmers: https://bit.ly/3OpY0zQ\n🤑 27 Gallon Tote for $7: https://creatoriq.cc/3OtWJaR\n🤑 SaluSpa Hot Tub: https://walmrt.us/3V6naag\n🤑 $60 Sams Club Plus Membership Deal: https://bit.ly/3YkfuDw (Usually $110!)\n🤑 Roborock Mop Vacuum: https://bit.ly/3CLU0H7 (UNDER $140!)\n🤑 $129 ASUS LAPTOP: https://bit.ly/3CQrqof\n🤑 $199 iPad: https://bit.ly/4g7vaQr\n🤑 Apple iPad (10th Gen): https://bit.ly/4i9dcyH\n🤑 Standing Desk: https://bit.ly/4gbcnE1\n🤑 Compact Treadmill: https://bit.ly/3OrARNv\n🤑 $99 Galaxy Watch: https://walmrt.us/4ii7RWf\n🤑 $230 Dyson Vacuum: https://bit.ly/4eThszH (NEW MODEL!)\n🤑 Portable Jump Starter: https://bit.ly/3ZqnZ08\n🤑 Ninja Indoor Grill: https://bit.ly/418ZAh0 (UNDER $80!)\n🤑 30” Vertical Smoker: https://bit.ly/3APTHL6\n🤑 $10 Security Camera: https://bit.ly/3OrYkho\n🤑 $154 AirPods Pro: https://bit.ly/3CGOrtx\n🤑 $14 Headphones: https://bit.ly/4eM4Wln\n🤑 Solar Powerbank wi/ Cables: https://bit.ly/4194pXF\n🤑 $50 Espresso Machine: https://walmrt.us/4eJQdr5\n🤑 $10 Ugg Dupes: https://bit.ly/3VdUSLj\n🤑 Buy 3 Get 3 Candles + 20% OFF: https://bit.ly/3ZpRnnf (Code: VERYMERRY)\n🤑 $36 Humidifier: https://bit.ly/3OtcL4L\n🤑 40% OFF Lego Sets: https://bit.ly/49fVfKT\n🤑 Huge Toy Deals: https://bit.ly/4eM3dfT\n🤑 Up to 70% OFF Adidas: https://bit.ly/3RcBjBq\n🤑 Up to 70% OFF Nike: https://bit.ly/40QLa2Q\n🤑 3 Piece Luggage Set: https://walmrt.us/3Rbcoht\n🤑 Huge Jacket Sale: https://bit.ly/3Vg5vNt\n🤑 Shark Robot Vacuum: https://bit.ly/4fIPV5a\n🤑 Nintendo Switch Bundle: https://walmrt.us/3OpiaKg\n🤑 PS5 Bundle: https://bit.ly/418iowT\n🤑 Fantikk Tire Inflator: https://bit.ly/418Y4LQ\n🤑 Fantikk Screw Driver: https://bit.ly/418l7q5 (Code: BFCMS1CP)\n🤑 $200 Dyson Hair Dryer: https://walmrt.us/3COH0AI\n🤑 $49 Shoe Sale: https://bit.ly/3CKLIzn\n🤑 $20 Queen Inflatable Mattress: https://walmrt.us/49sv6sF\n🤑 $179 55\" 4K TV: https://bit.ly/3CKAbQK\n🤑 onn 65\" 4K TV: https://walmrt.us/3zdRGr8\n🤑 $600 Macbook Air: https://walmrt.us/4ctkZEz\n🤑 2024 MacBook Air: https://bit.ly/4g3LVMr\n🤑 40% Off Crest 3D White Strips: https://bit.ly/49j1KNe\n🤑 $1 Sirius XM deal: https://bit.ly/3ZcFgZk\n🤑 4 Pack Apple AirTag: https://bit.ly/4eQDUJy\n🤑 $99 Swing Set: https://walmrt.us/47IpCHP\n🤑 Up to 85% OFF Sunglasses: https://bit.ly/49fd7pd\n🤑 15.6\" Lenovo Laptop: https://bit.ly/4fMhBpU\n🤑 $89 Beats Headphones: https://walmrt.us/3Rb9RE0\n🤑 UP TO 50% Off Hoka Shoes: https://bit.ly/3Zaldeb\n🤑 Electric Scooter: https://bit.ly/499CyZi\n\n🟠 FIRST - If you don’t have a Prime Membership - Sign up for a free trial here: https://amzn.to/3dzsEnf\n🔵 OR, If you don’t have a Walmart Plus Membership - Sign up for a free trial here: https://walmrt.us/40T0w79 (Free shipping!)\n\nHere is a link to the Amazon Black Friday Sale: https://bit.ly/3ZvQvwv\n\nIn this video we are exploring the Best Black Friday 2024 Deals at many different retailers! 2024 Black Friday are some of the Best Black Friday Deals 2024! This Top Black Friday Deals video is all about the black friday walmart 2024 and target black friday ad 2024.\n\nYou may have seen my costco black friday and best buy black friday 2024 video, so these deals are all brand new including some new black friday tv deals 2024. Best Buy Black Friday Deals and Amazon Black Friday 2020 are even better than the Walmart Black Friday video i did a few days ago!\n\nI have done so many 2024 black friday deals and best black friday deals 2024 videos but this one is definitely my favorite so far as it includes target black friday 2024, costco black friday and the best black friday deals 2024! Comment below what you think of the video :)\n\n#BlackFriday #BlackFriday2024 #BlackFridayDeals #BlackFridayDeals2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ej1sgA3wxkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ej1sgA3wxkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ej1sgA3wxkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ej1sgA3wxkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ej1sgA3wxkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Deal Guy",
+        "tags": [
+          "the deal guy",
+          "black friday",
+          "black friday 2024",
+          "best black friday 2024",
+          "best black friday",
+          "2024 black friday",
+          "best black friday deals 2024",
+          "black friday deals",
+          "2024 black friday deals",
+          "top black friday deals",
+          "black friday walmart 2024",
+          "target black friday ad 2024",
+          "target black friday 2024",
+          "best buy black friday",
+          "target black friday",
+          "costco black friday",
+          "amazon black friday",
+          "best buy black friday 2024",
+          "amazon black friday 2024",
+          "walmart black friday",
+          "black friday tv deals 2024"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Top 50 Best Black Friday Deals 2024 🤑 (Updated Hourly!!)",
+          "description": "The brand new deals are crazy this Black Friday 2024! Here are all the top deals I found on the products you care about from Amazon, Target, Walmart and More!\n\n👇🏼 MY TOP 50 BLACK FRIDAY DEAL LIST: 👇🏼 \n(These are affiliate links. If you buy something through these links I may get a small share of the sale.)\n\nMY MUST BUYS: 👀 (**affiliate links)\n🤑 $99 40\" TV: https://bit.ly/3AXxZVr\n🤑 99¢ Hulu Deal: https://bit.ly/417HgD7\n🤑 $2.99 Disney Plus & Hulu: https://bit.ly/m/thedealguy\n🤑 $20 Sams Membership Deal: https://bit.ly/40T6LYt (Limited time!)\n🤑 3 Pack 10FT USB Cables: https://bit.ly/49cLME9\n🤑 3 Pack 10FT USB Cables: https://bit.ly/4eQ9mrB (USB A)\n🤑 100FT LED Strip Lights: https://bit.ly/4g7DVd8 ($15!!)\n🤑 $39 Tree: https://walmrt.us/3N2ik9P\n🤑 $65 Robo Vac: https://walmrt.us/4f6OhJL\n🤑 $149 Apple Watch: https://bit.ly/4fMBddB\n🤑 Power Bank w/ Cables: https://bit.ly/3Ouu2ur (JUST $15!)\n🤑 3 Months of Amazon Music Free: https://bit.ly/3ZsJMnS\n🤑 Fanttik Car Vacuum: https://bit.ly/4ikz3Ue (Code: BFV7ACEBG)\n🤑 Under $5 Slippers: https://walmrt.us/3CIW5Ug\n\n⚡️ NEW UPDATED HOURLY DEALS: (**affiliate links)\n🔥 $94 43\" TV!! https://walmrt.us/412SryN\n🔥 5.5QT KitchenAid $279!! https://walmrt.us/41e2wJr\n🔥 $25 Carry-on: https://walmrt.us/4eJQ0Ej\n🔥 $399 75\" TV!! https://bit.ly/4fKq7FO\n\nALL THE DEALS IN THE VIDEO! (**affiliate links)\n🤑 85\" 4K TV: https://walmrt.us/4eQl3hO\n🤑 2 Pack Hand Warmers: https://bit.ly/3OpY0zQ\n🤑 27 Gallon Tote for $7: https://creatoriq.cc/3OtWJaR\n🤑 SaluSpa Hot Tub: https://walmrt.us/3V6naag\n🤑 $60 Sams Club Plus Membership Deal: https://bit.ly/3YkfuDw (Usually $110!)\n🤑 Roborock Mop Vacuum: https://bit.ly/3CLU0H7 (UNDER $140!)\n🤑 $129 ASUS LAPTOP: https://bit.ly/3CQrqof\n🤑 $199 iPad: https://bit.ly/4g7vaQr\n🤑 Apple iPad (10th Gen): https://bit.ly/4i9dcyH\n🤑 Standing Desk: https://bit.ly/4gbcnE1\n🤑 Compact Treadmill: https://bit.ly/3OrARNv\n🤑 $99 Galaxy Watch: https://walmrt.us/4ii7RWf\n🤑 $230 Dyson Vacuum: https://bit.ly/4eThszH (NEW MODEL!)\n🤑 Portable Jump Starter: https://bit.ly/3ZqnZ08\n🤑 Ninja Indoor Grill: https://bit.ly/418ZAh0 (UNDER $80!)\n🤑 30” Vertical Smoker: https://bit.ly/3APTHL6\n🤑 $10 Security Camera: https://bit.ly/3OrYkho\n🤑 $154 AirPods Pro: https://bit.ly/3CGOrtx\n🤑 $14 Headphones: https://bit.ly/4eM4Wln\n🤑 Solar Powerbank wi/ Cables: https://bit.ly/4194pXF\n🤑 $50 Espresso Machine: https://walmrt.us/4eJQdr5\n🤑 $10 Ugg Dupes: https://bit.ly/3VdUSLj\n🤑 Buy 3 Get 3 Candles + 20% OFF: https://bit.ly/3ZpRnnf (Code: VERYMERRY)\n🤑 $36 Humidifier: https://bit.ly/3OtcL4L\n🤑 40% OFF Lego Sets: https://bit.ly/49fVfKT\n🤑 Huge Toy Deals: https://bit.ly/4eM3dfT\n🤑 Up to 70% OFF Adidas: https://bit.ly/3RcBjBq\n🤑 Up to 70% OFF Nike: https://bit.ly/40QLa2Q\n🤑 3 Piece Luggage Set: https://walmrt.us/3Rbcoht\n🤑 Huge Jacket Sale: https://bit.ly/3Vg5vNt\n🤑 Shark Robot Vacuum: https://bit.ly/4fIPV5a\n🤑 Nintendo Switch Bundle: https://walmrt.us/3OpiaKg\n🤑 PS5 Bundle: https://bit.ly/418iowT\n🤑 Fantikk Tire Inflator: https://bit.ly/418Y4LQ\n🤑 Fantikk Screw Driver: https://bit.ly/418l7q5 (Code: BFCMS1CP)\n🤑 $200 Dyson Hair Dryer: https://walmrt.us/3COH0AI\n🤑 $49 Shoe Sale: https://bit.ly/3CKLIzn\n🤑 $20 Queen Inflatable Mattress: https://walmrt.us/49sv6sF\n🤑 $179 55\" 4K TV: https://bit.ly/3CKAbQK\n🤑 onn 65\" 4K TV: https://walmrt.us/3zdRGr8\n🤑 $600 Macbook Air: https://walmrt.us/4ctkZEz\n🤑 2024 MacBook Air: https://bit.ly/4g3LVMr\n🤑 40% Off Crest 3D White Strips: https://bit.ly/49j1KNe\n🤑 $1 Sirius XM deal: https://bit.ly/3ZcFgZk\n🤑 4 Pack Apple AirTag: https://bit.ly/4eQDUJy\n🤑 $99 Swing Set: https://walmrt.us/47IpCHP\n🤑 Up to 85% OFF Sunglasses: https://bit.ly/49fd7pd\n🤑 15.6\" Lenovo Laptop: https://bit.ly/4fMhBpU\n🤑 $89 Beats Headphones: https://walmrt.us/3Rb9RE0\n🤑 UP TO 50% Off Hoka Shoes: https://bit.ly/3Zaldeb\n🤑 Electric Scooter: https://bit.ly/499CyZi\n\n🟠 FIRST - If you don’t have a Prime Membership - Sign up for a free trial here: https://amzn.to/3dzsEnf\n🔵 OR, If you don’t have a Walmart Plus Membership - Sign up for a free trial here: https://walmrt.us/40T0w79 (Free shipping!)\n\nHere is a link to the Amazon Black Friday Sale: https://bit.ly/3ZvQvwv\n\nIn this video we are exploring the Best Black Friday 2024 Deals at many different retailers! 2024 Black Friday are some of the Best Black Friday Deals 2024! This Top Black Friday Deals video is all about the black friday walmart 2024 and target black friday ad 2024.\n\nYou may have seen my costco black friday and best buy black friday 2024 video, so these deals are all brand new including some new black friday tv deals 2024. Best Buy Black Friday Deals and Amazon Black Friday 2020 are even better than the Walmart Black Friday video i did a few days ago!\n\nI have done so many 2024 black friday deals and best black friday deals 2024 videos but this one is definitely my favorite so far as it includes target black friday 2024, costco black friday and the best black friday deals 2024! Comment below what you think of the video :)\n\n#BlackFriday #BlackFriday2024 #BlackFridayDeals #BlackFridayDeals2024"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "690755",
+        "likeCount": "37455",
+        "favoriteCount": "0",
+        "commentCount": "750"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7Gu37mda2tdlXAYLwCz0hMRPfuc",
+      "id": "25YJyj9c8IU",
+      "snippet": {
+        "publishedAt": "2024-11-28T22:14:32Z",
+        "channelId": "UCQpbsCYqUl-KfJL_X_TDrHg",
+        "title": "HIGHLIGHTS | Gib vs. Slim | X-Series 19 - Qatar The Supercard",
+        "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/25YJyj9c8IU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/25YJyj9c8IU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/25YJyj9c8IU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/25YJyj9c8IU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/25YJyj9c8IU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN X Series",
+        "tags": [
+          "boxing",
+          "influencers",
+          "ksi",
+          "social media",
+          "crossover boxing",
+          "x series",
+          "dazn",
+          "dazn x",
+          "misfits",
+          "misfits boxing"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HIGHLIGHTS | Gib vs. Slim | X-Series 19 - Qatar The Supercard",
+          "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "624044",
+        "likeCount": "15640",
+        "favoriteCount": "0",
+        "commentCount": "2209"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N6jQ-D3vsPa0mPW9p-K2ZAuT7CI",
+      "id": "7w0Gw7xEH9M",
+      "snippet": {
+        "publishedAt": "2024-11-28T17:00:05Z",
+        "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+        "title": "I have Autism",
+        "description": "Thankmas Tickets: https://www.ticketmaster.com/thankmas-tickets/artist/3077177?fbclid=PAZXh0bgNhZW0CMTEAAaYIADsYwoQsIr9zzfzzPa8YZOcYto2SXmHGAziKTmu7885SV_8Jab2lGhA_aem_Fqp79XB-w1daPlqSFo8KtA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7w0Gw7xEH9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7w0Gw7xEH9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7w0Gw7xEH9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7w0Gw7xEH9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7w0Gw7xEH9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jacksepticeye",
+        "tags": ["jacksepticeye"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I have Autism",
+          "description": "Thankmas Tickets: https://www.ticketmaster.com/thankmas-tickets/artist/3077177?fbclid=PAZXh0bgNhZW0CMTEAAaYIADsYwoQsIr9zzfzzPa8YZOcYto2SXmHGAziKTmu7885SV_8Jab2lGhA_aem_Fqp79XB-w1daPlqSFo8KtA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1296985",
+        "likeCount": "164892",
+        "favoriteCount": "0",
+        "commentCount": "23836"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-moZsQeMv6NyIMKBAYI9a02lPjs",
+      "id": "FMA9_GxPkr0",
+      "snippet": {
+        "publishedAt": "2024-11-28T22:21:18Z",
+        "channelId": "UCf8YPuOWXlpTS7RibaJlP4g",
+        "title": "Man. United vs. Bodø/Glimt: Extended Highlights | UEL League Phase MD 5 | CBS Sports Golazo - Europe",
+        "description": "Bodø/Glimt suffered their first Europa League loss last time out, and now take on Man. United, who are undefeated with three draws in the league stage.\n\nStream every UEFA Champions League match live on Paramount+: http://bit.ly/UCLonParamount\n\nWatch all the extended highlights from the UEFA Champions League HERE: http://bit.ly/ChampionsLeagueExtendedHighlights \n\nWatch the epic UCL punditry from Thierry Henry, Micah Richards, and Jamie Carragher HERE: http://bit.ly/CBSSportsGolazo\n\nFollow us across our social media! \n○ TWITTER: http://twitter.com/CBSSportsGolazo\n○ FACEBOOK: http://facebook.com/CBSSportsGolazo/\n○ INSTAGRAM: http://instagram.com/cbssportsgolazo\n○ TIK TOK: http://tiktok.com/@cbssportsgolazo\n\nSubscribe to our other CBS Sports Golazo channels!\n○ CBS SPORT GOLAZO - EUROPE: http://bit.ly/CBSSportsGolazoEurope\n○ ATTACKING THIRD: http://bit.ly/AttackingThird\n○ CBS Sports Golazo – Asia: http://bit.ly/CBSSportsGolazoAsia\n\nHome of Serie A, NWSL, Concacaf Men's and Women's Nations League and World Cup Qualifiers, Argentina’s Liga Profesional de Fútbol, Brazil’s Campeonato Brasileirão Série A and UEFA men’s club competitions including the Europa League, Europa Conference League and... 🎶 THE CHAAAMPIONSSS 🎶",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FMA9_GxPkr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FMA9_GxPkr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FMA9_GxPkr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FMA9_GxPkr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FMA9_GxPkr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sports Golazo - Europe",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Man. United vs. Bodø/Glimt: Extended Highlights | UEL League Phase MD 5 | CBS Sports Golazo - Europe",
+          "description": "Bodø/Glimt suffered their first Europa League loss last time out, and now take on Man. United, who are undefeated with three draws in the league stage.\n\nStream every UEFA Champions League match live on Paramount+: http://bit.ly/UCLonParamount\n\nWatch all the extended highlights from the UEFA Champions League HERE: http://bit.ly/ChampionsLeagueExtendedHighlights \n\nWatch the epic UCL punditry from Thierry Henry, Micah Richards, and Jamie Carragher HERE: http://bit.ly/CBSSportsGolazo\n\nFollow us across our social media! \n○ TWITTER: http://twitter.com/CBSSportsGolazo\n○ FACEBOOK: http://facebook.com/CBSSportsGolazo/\n○ INSTAGRAM: http://instagram.com/cbssportsgolazo\n○ TIK TOK: http://tiktok.com/@cbssportsgolazo\n\nSubscribe to our other CBS Sports Golazo channels!\n○ CBS SPORT GOLAZO - EUROPE: http://bit.ly/CBSSportsGolazoEurope\n○ ATTACKING THIRD: http://bit.ly/AttackingThird\n○ CBS Sports Golazo – Asia: http://bit.ly/CBSSportsGolazoAsia\n\nHome of Serie A, NWSL, Concacaf Men's and Women's Nations League and World Cup Qualifiers, Argentina’s Liga Profesional de Fútbol, Brazil’s Campeonato Brasileirão Série A and UEFA men’s club competitions including the Europa League, Europa Conference League and... 🎶 THE CHAAAMPIONSSS 🎶"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["US"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "339055",
+        "likeCount": "3941",
+        "favoriteCount": "0",
+        "commentCount": "488"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DEgN1ddHGgxvlqOpuID4JaG7S64",
+      "id": "nilZ8sRsqW8",
+      "snippet": {
+        "publishedAt": "2024-11-28T21:58:17Z",
+        "channelId": "UCQpbsCYqUl-KfJL_X_TDrHg",
+        "title": "HIGHLIGHTS | Salt Papi vs. King Kenny | X-Series 19 - Qatar The Supercard",
+        "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nilZ8sRsqW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nilZ8sRsqW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nilZ8sRsqW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nilZ8sRsqW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nilZ8sRsqW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN X Series",
+        "tags": [
+          "boxing",
+          "influencers",
+          "ksi",
+          "social media",
+          "crossover boxing",
+          "x series",
+          "dazn",
+          "dazn x",
+          "misfits",
+          "misfits boxing"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HIGHLIGHTS | Salt Papi vs. King Kenny | X-Series 19 - Qatar The Supercard",
+          "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "545737",
+        "likeCount": "12113",
+        "favoriteCount": "0",
+        "commentCount": "1326"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6C4rvBpH9gprGDO0D8Q0CH164QQ",
+      "id": "jElpa6JQUjw",
+      "snippet": {
+        "publishedAt": "2024-11-28T20:00:19Z",
+        "channelId": "UCsvazPPlhZlch0-Z3wPByeg",
+        "title": "Home Away From Heck | HFIL Episode 11",
+        "description": "Brought to you by Raycon! Go to https://buyraycon.com/teamfourstar to get up to 30% off sitewide! \n\n*Welcome...to BETA HFIL*\n\nGet early access to videos!\nPatreon: https://www.patreon.com/tfs\nYouTube Membership: https://www.youtube.com/@TeamFourStar/membership\n\n--------------------------------\n**Directed & Edited By**\nScott Frerichs\n\n**Created & Written By**\nCurtis Arnott\nNick Landis\nScott Frerichs\n\n**Animated By**\nEnviousChimera🐐🐉 @ChimeraEnvy\nDevil Artemis @DevilArtemis  \nis Cruz @JumpNJetz   \n0zner @O_zner  \nSXR123 @SXR123_YT  \n\n**Composed by**\nCliff Weinstein\n\n**Additional Music from**\nEpidemic Sound\n\n**Additional Art Provided by**\nBrachyZoid\nCitricKing\n\n**Cast**\nCurtis Arnott as Cell, Lord Slug\nDevil Artemis as King Cold\nWes Wiggins as Psych\nNick Landis as Bojack, Neiz, Raditz\nConnor McKinley as Cooler\nElsie Lovelock as Zangya\nxthedarkone as Dore\nTom Schalk as Sauza\nMasakoX as Turles\nJoshua Gotay at Broly\n\n**Special Thanks to All Our Patrons & Supporters!**",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jElpa6JQUjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jElpa6JQUjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jElpa6JQUjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jElpa6JQUjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jElpa6JQUjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeamFourStar",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Home Away From Heck | HFIL Episode 11",
+          "description": "Brought to you by Raycon! Go to https://buyraycon.com/teamfourstar to get up to 30% off sitewide! \n\n*Welcome...to BETA HFIL*\n\nGet early access to videos!\nPatreon: https://www.patreon.com/tfs\nYouTube Membership: https://www.youtube.com/@TeamFourStar/membership\n\n--------------------------------\n**Directed & Edited By**\nScott Frerichs\n\n**Created & Written By**\nCurtis Arnott\nNick Landis\nScott Frerichs\n\n**Animated By**\nEnviousChimera🐐🐉 @ChimeraEnvy\nDevil Artemis @DevilArtemis  \nis Cruz @JumpNJetz   \n0zner @O_zner  \nSXR123 @SXR123_YT  \n\n**Composed by**\nCliff Weinstein\n\n**Additional Music from**\nEpidemic Sound\n\n**Additional Art Provided by**\nBrachyZoid\nCitricKing\n\n**Cast**\nCurtis Arnott as Cell, Lord Slug\nDevil Artemis as King Cold\nWes Wiggins as Psych\nNick Landis as Bojack, Neiz, Raditz\nConnor McKinley as Cooler\nElsie Lovelock as Zangya\nxthedarkone as Dore\nTom Schalk as Sauza\nMasakoX as Turles\nJoshua Gotay at Broly\n\n**Special Thanks to All Our Patrons & Supporters!**"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT14M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "312484",
+        "likeCount": "34213",
+        "favoriteCount": "0",
+        "commentCount": "4066"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dD_M-0eDWKFNOue6AQTLzm_-oDQ",
+      "id": "axVfcDrE0mE",
+      "snippet": {
+        "publishedAt": "2024-11-29T07:50:01Z",
+        "channelId": "UCBrMq7wkdPWb3PxR-GUR61A",
+        "title": "New Crop, Production Building, and Birds coming to Hay Day!",
+        "description": "Claim the QR Code: https://link.haydaygame.com/?action=voucher&code=7f572376-6ea0-4aeb-bb7e-ce463dd423a2\n\nBest. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/axVfcDrE0mE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/axVfcDrE0mE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/axVfcDrE0mE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/axVfcDrE0mE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/axVfcDrE0mE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hay Day",
+        "tags": [
+          "Hay Day",
+          "HayDay",
+          "Supercell",
+          "Suprcell",
+          "Farming",
+          "Farm life",
+          "mobile",
+          "tablet",
+          "mobile game",
+          "game",
+          "yt:cc=on",
+          "ios",
+          "android",
+          "amazon",
+          "series",
+          "farmer",
+          "pig",
+          "horse",
+          "cow",
+          "sheep",
+          "goat",
+          "puppy",
+          "dog",
+          "kitten",
+          "cat",
+          "fishing",
+          "sanctuary",
+          "elephant",
+          "zebra",
+          "giraffe",
+          "hippo"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "New Crop, Production Building, and Birds coming to Hay Day!",
+          "description": "Claim the QR Code: https://link.haydaygame.com/?action=voucher&code=7f572376-6ea0-4aeb-bb7e-ce463dd423a2\n\nBest. Farm. Ever. Welcome to Hay Day, the most popular farming game on mobiles and tablets, number one in 122 countries.\n\nGet Hay Day ►► https://link.haydaygame.com/\n\nLearn the lay of the land, tend to your crops, and trade goods with neighbors and friends. It’s a real special place where the crops never die even though it never rains. Sharing the farm with our quirky animals only makes things more fun!\n\nHay Day is available for devices running iOS, Android and Kindle!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "370453",
+        "likeCount": "14332",
+        "favoriteCount": "0",
+        "commentCount": "1016"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Dcx6pWVDkmmCQF0vzSiaX9F1xRA",
+      "id": "qeWutl38TQw",
+      "snippet": {
+        "publishedAt": "2024-11-28T01:00:36Z",
+        "channelId": "UChpJbg7zMbi5jx9Gdjaxa9g",
+        "title": "¥$, North West, Chicago West, Yuno Miles - BOMB",
+        "description": "Music video by ¥$ performing BOMB.2024 YZY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qeWutl38TQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qeWutl38TQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qeWutl38TQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qeWutl38TQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qeWutl38TQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KanyeWestVEVO",
+        "tags": ["North West", "Chicago West", "Yuno Miles", "YZY", "Hip-Hop"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "¥$, North West, Chicago West, Yuno Miles - BOMB",
+          "description": "Music video by ¥$ performing BOMB.2024 YZY"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1134967",
+        "likeCount": "82129",
+        "favoriteCount": "0",
+        "commentCount": "11204"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XJVLNkk3YEumf5wSHvUERzCoSrw",
+      "id": "arZGPi7q_T4",
+      "snippet": {
+        "publishedAt": "2024-11-27T22:04:28Z",
+        "channelId": "UC2b-dlU5pDw2Y4EHvKIjQmw",
+        "title": "YOVNGCHIMI - LUCIFER 👹 (Official Video)",
+        "description": "YOVNGCHIMI - LUCIFER 👹 (Official Video)\n\n📽 SHOT AND EDIT BY : FAJARDO\n🔫 GLIZZY GVNG\n💰🚏MONEY WAYY\n💸 STASH MONEY\n⛹🏾\u200d♂️ LOSDELDRIBBLE\n🏢 ONE40’TOWERS\n\n#yovngchimi #lucifer #trap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arZGPi7q_T4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arZGPi7q_T4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arZGPi7q_T4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/arZGPi7q_T4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/arZGPi7q_T4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YOVNGCHIMI",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "YOVNGCHIMI - LUCIFER 👹 (Official Video)",
+          "description": "YOVNGCHIMI - LUCIFER 👹 (Official Video)\n\n📽 SHOT AND EDIT BY : FAJARDO\n🔫 GLIZZY GVNG\n💰🚏MONEY WAYY\n💸 STASH MONEY\n⛹🏾\u200d♂️ LOSDELDRIBBLE\n🏢 ONE40’TOWERS\n\n#yovngchimi #lucifer #trap"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT9M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1184445",
+        "likeCount": "62366",
+        "favoriteCount": "0",
+        "commentCount": "25574"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FNy6XwB24c9OaAud3kepSHs77x4",
+      "id": "HozPPyqW0dY",
+      "snippet": {
+        "publishedAt": "2024-11-27T17:41:23Z",
+        "channelId": "UCKrdjiuS66yXOdEZ_cOD_TA",
+        "title": "Megan Thee Stallion - Roc Steady (feat. Flo Milli) [Official Video]",
+        "description": "The official video for Megan Thee Stallion's \"Roc Steady\" feat. Flo Milli - OUT NOW! \n\nStream \"MEGAN: ACT II\": https://MeganTheeStallion.lnk.to/ActII\n\nhttps://MeganTheeStallion.com/\n\nText Megan Thee Stallion:\n(832) 210-1202\n\nFollow Megan Thee Stallion:\nhttps://www.instagram.com/theestallion  \nhttps://x.com/theestallion  \nhttps://www.facebook.com/MeganTheeStallion \nhttps://www.tiktok.com/@theestallion\n\n--\n#MeganTheeStallion #RocSteady #FloMilli #OfficialVideo #MeganActII",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HozPPyqW0dY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HozPPyqW0dY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HozPPyqW0dY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HozPPyqW0dY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HozPPyqW0dY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Megan Thee Stallion",
+        "tags": [
+          "Megan Thee Stallion",
+          "Rap",
+          "Houston",
+          "Hottie",
+          "Hip Hop",
+          "Flo Milli"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Megan Thee Stallion - Roc Steady (feat. Flo Milli) [Official Video]",
+          "description": "The official video for Megan Thee Stallion's \"Roc Steady\" feat. Flo Milli - OUT NOW! \n\nStream \"MEGAN: ACT II\": https://MeganTheeStallion.lnk.to/ActII\n\nhttps://MeganTheeStallion.com/\n\nText Megan Thee Stallion:\n(832) 210-1202\n\nFollow Megan Thee Stallion:\nhttps://www.instagram.com/theestallion  \nhttps://x.com/theestallion  \nhttps://www.facebook.com/MeganTheeStallion \nhttps://www.tiktok.com/@theestallion\n\n--\n#MeganTheeStallion #RocSteady #FloMilli #OfficialVideo #MeganActII"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "920481",
+        "likeCount": "96285",
+        "favoriteCount": "0",
+        "commentCount": "3987"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "slsmWnL--EoRpzqB7laf7eUmcvA",
+      "id": "aU6Abbj8VJM",
+      "snippet": {
+        "publishedAt": "2024-11-28T22:00:38Z",
+        "channelId": "UC7ZUfHFsuQcW7BkTHnXJtqw",
+        "title": "WHAT WERE THE BEARS DOING? | Matt Ryan rips Eberflus' clock management | NFL Today",
+        "description": "🎥 WATCH\n• Subscribe to this channel: https://www.youtube.com/@NFLonCBS    \n• Watch CBS Sports HQ: https://cbssports.com/live \n• Watch CBS Sports Network on your TV or the CBS Sports App with your cable provider\n\n▶︎Pushing the Pile episodes: https://www.youtube.com/playlist?list=PLZx1tBNXKj0hkJ5WnMlLwhNkHXHTo7dXq   \n▶︎With the First Pick episodes: https://www.youtube.com/playlist?list=PLZx1tBNXKj0hXL2m5zD6zTqm7KYiF9oRR \n\n🎧 LISTEN \nPushing the Pile\n• Stream and follow & leave a 5⭐️ rating on Spotify: https://open.spotify.com/show/2RFkEgdbFxbPBDU5F5xEjJ?si=9d060f61471b4764    \n• Download and follow & leave a 5⭐️ rating on Apple: https://podcasts.apple.com/us/podcast/pushing-the-pile-a-cbs-sports-nfl-podcast-with/id1263289980 \n\nWith the First Pick: \n• Stream and follow & leave a 5⭐️ rating on Spotify: https://open.spotify.com/show/4B3tx0rmH0wjhSvXJA9SeA?si=60a57aa9f43040db    \n• Download and follow & leave a 5⭐️ rating on Apple: https://podcasts.apple.com/us/podcast/with-the-first-pick-an-nfl-draft-podcast-from-cbs-sports/id1622026887 \n• Other CBS Sports podcasts: https://cbssports.com/podcast  \n\n📱FOLLOW \n• Twitter: https://x.com/NFLonCBS    \n• Instagram: https://www.instagram.com/nfloncbs/?hl=en    \n• TikTok: https://www.tiktok.com/@nfloncbs?lang=en   \n\n📖 READ\n• More NFL and NFL DRAFT news: https://www.cbssports.com/nfl/   \n\n💵BETTING\n• Visit the betting arena on CBS Sports.com: https://www.cbssports.com/betting/  \n• For all the latest in sportsbook reviews: https://www.cbssports.com/betting/sportsbooks/  \n• And sportsbook promos: https://www.cbssports.com/betting/promos/   \n• For betting on the NFL: https://www.cbssports.com/betting/nfl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aU6Abbj8VJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aU6Abbj8VJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aU6Abbj8VJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aU6Abbj8VJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aU6Abbj8VJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL on CBS",
+        "tags": [
+          "pick six podcast",
+          "nfl",
+          "football",
+          "sports talk",
+          "nfl talk",
+          "nfl news",
+          "nfl draft",
+          "mock draft",
+          "nfl draft show",
+          "nfl draft podcast",
+          "nfl betting",
+          "nfl predictions",
+          "Super Bowl",
+          "Rick Spielman",
+          "With the First Pick",
+          "With the First Pick podcast",
+          "Pushing the Pile",
+          "Pushing the Pile podcast"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WHAT WERE THE BEARS DOING? | Matt Ryan rips Eberflus' clock management | NFL Today",
+          "description": "🎥 WATCH\n• Subscribe to this channel: https://www.youtube.com/@NFLonCBS    \n• Watch CBS Sports HQ: https://cbssports.com/live \n• Watch CBS Sports Network on your TV or the CBS Sports App with your cable provider\n\n▶︎Pushing the Pile episodes: https://www.youtube.com/playlist?list=PLZx1tBNXKj0hkJ5WnMlLwhNkHXHTo7dXq   \n▶︎With the First Pick episodes: https://www.youtube.com/playlist?list=PLZx1tBNXKj0hXL2m5zD6zTqm7KYiF9oRR \n\n🎧 LISTEN \nPushing the Pile\n• Stream and follow & leave a 5⭐️ rating on Spotify: https://open.spotify.com/show/2RFkEgdbFxbPBDU5F5xEjJ?si=9d060f61471b4764    \n• Download and follow & leave a 5⭐️ rating on Apple: https://podcasts.apple.com/us/podcast/pushing-the-pile-a-cbs-sports-nfl-podcast-with/id1263289980 \n\nWith the First Pick: \n• Stream and follow & leave a 5⭐️ rating on Spotify: https://open.spotify.com/show/4B3tx0rmH0wjhSvXJA9SeA?si=60a57aa9f43040db    \n• Download and follow & leave a 5⭐️ rating on Apple: https://podcasts.apple.com/us/podcast/with-the-first-pick-an-nfl-draft-podcast-from-cbs-sports/id1622026887 \n• Other CBS Sports podcasts: https://cbssports.com/podcast  \n\n📱FOLLOW \n• Twitter: https://x.com/NFLonCBS    \n• Instagram: https://www.instagram.com/nfloncbs/?hl=en    \n• TikTok: https://www.tiktok.com/@nfloncbs?lang=en   \n\n📖 READ\n• More NFL and NFL DRAFT news: https://www.cbssports.com/nfl/   \n\n💵BETTING\n• Visit the betting arena on CBS Sports.com: https://www.cbssports.com/betting/  \n• For all the latest in sportsbook reviews: https://www.cbssports.com/betting/sportsbooks/  \n• And sportsbook promos: https://www.cbssports.com/betting/promos/   \n• For betting on the NFL: https://www.cbssports.com/betting/nfl/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "177295",
+        "likeCount": "1850",
+        "favoriteCount": "0",
+        "commentCount": "1173"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TNcJdXvqzcbKxCGFf4AxF4o9vzI",
+      "id": "HAWYOuMGkK0",
+      "snippet": {
+        "publishedAt": "2024-11-29T05:00:00Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "V 'Winter Ahead (with PARK HYO SHIN)' Official MV",
+        "description": "V 'Winter Ahead (with PARK HYO SHIN)' \n🎧 Listen now: https://v.lnk.to/WinterAhead\n\nCredits:\n*Korea Crew*\nProduction : STBY\nDirector : Lee Hangyeol (HANBAGO)\n1st AD : Kang Yena\n2nd AD : Shin Jaehyeop\nProducer : Ko Yoojeong\nEditor, Cleaning, SFX : Kim Sanghyun\nDI : Lucid Colour\nColorist : Haewon Kwak\nDI Crew : Seonyoung Lee, Sujeong Park, Daseul Kim, Dongwoo Jo, Hyewon Park \nDI Producer : Onew Kim\n\n*Paris Crew*\nProduction : KEYSTONE FILMS\nExecutive Producer : Yoon-Seok Nam \nLine Producer : Nathalie Siegel \nProduction Manager : Rime Nahmani \nProduction Coordinator : Lisa D’Allessandro \nProduction Head Assistant : Tena Lee\nProduction Assistant : Emilie Serva, Jeongyun Kim \n\n1st AD : Lucas Rousset \n2nd AD : Sooyean Lee, Marion Thollot \n\nDOP : Pierre Cottereau \n1st Asst. Camera : Romain Duquesne \n2nd Asst. Camera : Luca Mailhol \n3rd Asst. Camera (On Set Video) : Johanne Lidy \nSteadycam Operator : Antone Tarrente \n\nGaffer : Olivier Pilorget\nBest Boy : LéO Pecile\nElectrician : Julie Joumier, Zakary Pilorget \nGroupman : Pontonnier Antonin \nKey Grip : Joseph Emeliot \nBest Boy Grip : Loup Corvez \nGrip : Eliot Lefeuvre, Renaud Merviel \n\nLocation Manager : René Osi\nUnit Manager : Benjamin Rea\nAssistant Location Manager : Gabin Gautier\nLocation | Unit Pa : Vivien Drouillas, Jean-Fred Baptisto \nLocation Scout : Jean-Luc Gargadennec\n\nProduction Designer : Bruno Hadjadj \nArt Director : StéPhane Becimol \nSet Designer : Roberta Oprandi \nAssistant Art Director : Marie Keller\nArt Department Assistant : Felix Pubert, Lorenzo Leschi , Juliette Laissard \nProps Buyer : Emma Guajardo \nLandscaper : Jean-Louis Maurin \nHead Of Construction : Christophe Simonet \nCarpenter : Eric Pantin \nHead Painter : Hamed Benbarka, Ana Soares \nPainter : Sylvia Romao \nHead Sculptor : Julien Galand \nSculptor : FrançOis Guibert, Pascalfaviez, Pascal Le Henaff \nSwing Gang : Fergus Constantine, Pierre Dugast, Marcello Hadjadj, Pierre-Henri Leneveu \nStandby Props : Jean-Pierre Barthes \n\nCostume Supervisor : Marine Arnoul \nCostume Supervisor Assistant : Yasmina Gheysari \nSet Costumer : Fanny Bonnet, Faustine Divagou, Lucie Coutelet \n\nCasting Director : Marie Gervais \nMain Actress : Aida Atarssa \nLight Stand In : Guillaume Benit \nDancer : Flores Cardo, Dana Mussa, LéA Lee, MéLina Borges, Luna Durui, OcéAne Belbrel, ThéO Marechal, Lewis Suaton, Louis Russel, Tomas Bassot\nFeatured Extra : ThéO Mallet, Leonard Boubet, Elisa Libri, Clara Soulie, Emmanuel Gillet, Jade Bouchet, Kenya Boga \n\nMakeup Supervisor : Josephine Richard \nMakeup Artist : Saleha Bouchama \nHair Supervisor : Romain Durand \nHair Stylist : Amaury Auxiette, AngéLique Maquet \n\nMedic On Set : SéVerine Vauzelle \nMechanic : Antonio Cides \nSFX Supervisor : Armel Cessa \nSFX: Peggy Consorti \n\nDriver : Sanaa, Nalah Oh, In Seok Jung, FrançOis Montandrau, Sacha Yesi, Alexandre Monfray \nLogeman : “Zouzou” Zouhair Laouni \nCatering : Anne Desplanques, FréDéRic Hubscher (Bistronomade)\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://x.com/BTS_bighit\nhttp://x.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttp://btsblog.ibighit.com\n\n#WinterAhead #V #뷔 #PARKHYOSHIN #박효신",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HAWYOuMGkK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HAWYOuMGkK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HAWYOuMGkK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HAWYOuMGkK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HAWYOuMGkK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "V 'Winter Ahead (with PARK HYO SHIN)' Official MV",
+          "description": "V 'Winter Ahead (with PARK HYO SHIN)' \n🎧 Listen now: https://v.lnk.to/WinterAhead\n\nCredits:\n*Korea Crew*\nProduction : STBY\nDirector : Lee Hangyeol (HANBAGO)\n1st AD : Kang Yena\n2nd AD : Shin Jaehyeop\nProducer : Ko Yoojeong\nEditor, Cleaning, SFX : Kim Sanghyun\nDI : Lucid Colour\nColorist : Haewon Kwak\nDI Crew : Seonyoung Lee, Sujeong Park, Daseul Kim, Dongwoo Jo, Hyewon Park \nDI Producer : Onew Kim\n\n*Paris Crew*\nProduction : KEYSTONE FILMS\nExecutive Producer : Yoon-Seok Nam \nLine Producer : Nathalie Siegel \nProduction Manager : Rime Nahmani \nProduction Coordinator : Lisa D’Allessandro \nProduction Head Assistant : Tena Lee\nProduction Assistant : Emilie Serva, Jeongyun Kim \n\n1st AD : Lucas Rousset \n2nd AD : Sooyean Lee, Marion Thollot \n\nDOP : Pierre Cottereau \n1st Asst. Camera : Romain Duquesne \n2nd Asst. Camera : Luca Mailhol \n3rd Asst. Camera (On Set Video) : Johanne Lidy \nSteadycam Operator : Antone Tarrente \n\nGaffer : Olivier Pilorget\nBest Boy : LéO Pecile\nElectrician : Julie Joumier, Zakary Pilorget \nGroupman : Pontonnier Antonin \nKey Grip : Joseph Emeliot \nBest Boy Grip : Loup Corvez \nGrip : Eliot Lefeuvre, Renaud Merviel \n\nLocation Manager : René Osi\nUnit Manager : Benjamin Rea\nAssistant Location Manager : Gabin Gautier\nLocation | Unit Pa : Vivien Drouillas, Jean-Fred Baptisto \nLocation Scout : Jean-Luc Gargadennec\n\nProduction Designer : Bruno Hadjadj \nArt Director : StéPhane Becimol \nSet Designer : Roberta Oprandi \nAssistant Art Director : Marie Keller\nArt Department Assistant : Felix Pubert, Lorenzo Leschi , Juliette Laissard \nProps Buyer : Emma Guajardo \nLandscaper : Jean-Louis Maurin \nHead Of Construction : Christophe Simonet \nCarpenter : Eric Pantin \nHead Painter : Hamed Benbarka, Ana Soares \nPainter : Sylvia Romao \nHead Sculptor : Julien Galand \nSculptor : FrançOis Guibert, Pascalfaviez, Pascal Le Henaff \nSwing Gang : Fergus Constantine, Pierre Dugast, Marcello Hadjadj, Pierre-Henri Leneveu \nStandby Props : Jean-Pierre Barthes \n\nCostume Supervisor : Marine Arnoul \nCostume Supervisor Assistant : Yasmina Gheysari \nSet Costumer : Fanny Bonnet, Faustine Divagou, Lucie Coutelet \n\nCasting Director : Marie Gervais \nMain Actress : Aida Atarssa \nLight Stand In : Guillaume Benit \nDancer : Flores Cardo, Dana Mussa, LéA Lee, MéLina Borges, Luna Durui, OcéAne Belbrel, ThéO Marechal, Lewis Suaton, Louis Russel, Tomas Bassot\nFeatured Extra : ThéO Mallet, Leonard Boubet, Elisa Libri, Clara Soulie, Emmanuel Gillet, Jade Bouchet, Kenya Boga \n\nMakeup Supervisor : Josephine Richard \nMakeup Artist : Saleha Bouchama \nHair Supervisor : Romain Durand \nHair Stylist : Amaury Auxiette, AngéLique Maquet \n\nMedic On Set : SéVerine Vauzelle \nMechanic : Antonio Cides \nSFX Supervisor : Armel Cessa \nSFX: Peggy Consorti \n\nDriver : Sanaa, Nalah Oh, In Seok Jung, FrançOis Montandrau, Sacha Yesi, Alexandre Monfray \nLogeman : “Zouzou” Zouhair Laouni \nCatering : Anne Desplanques, FréDéRic Hubscher (Bistronomade)\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://x.com/BTS_bighit\nhttp://x.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttp://btsblog.ibighit.com\n\n#WinterAhead #V #뷔 #PARKHYOSHIN #박효신"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2594284",
+        "likeCount": "825273",
+        "favoriteCount": "0",
+        "commentCount": "87151"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1TZMtl9lqn1T8swCK3Pkq_xmVCY",
+      "id": "2bo99TiTZSw",
+      "snippet": {
+        "publishedAt": "2024-11-28T23:21:17Z",
+        "channelId": "UCd1fLoVFooPeWqCEYVUJZqg",
+        "title": "I ate EVERY BURGER at Gordon Ramsay's Restaurant (Full Menu)",
+        "description": "Make sure to download Opera for free using my link: https://opr.as/Opera-browser-mattstonie\nVideo sponsored by: Oprea\n\nWe tasted & ranked Every Single Gordon Ramsay Burger in a Tier List!!\n\nI love my job\n\nENJOY!!!\n\n---Socials & Stuff----\nFACEBOOK - https://www.facebook.com/mattmegatoadstonie\nINSTAGRAM - https://www.instagram.com/matt_stonie\nTWITCH - https://www.twitch.tv/mattstonie\nTIKTOK - https://vm.tiktok.com/ZMRheEAwc/\nTWITTER - https://www.twitter.com/mattstonie\nSTONIE BOWLS - https://stoniebowls.com/\n\nMailing Address:\nP.O. Box 28519\nLas Vegas, NV 89102\n\nCredits:\nRoyalty Free Music by http://audiomicro.com/royalty-free-music\nMusic and Sound Effects from Video CoPilot's \"Proscores\" & \"Design Studio FX\"\nMusic from Epidemic Sounds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2bo99TiTZSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2bo99TiTZSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2bo99TiTZSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2bo99TiTZSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2bo99TiTZSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Matt Stonie",
+        "tags": [
+          "Matt Stonie",
+          "Megatoad",
+          "Competitive Eating",
+          "Food Challenge",
+          "Speed Eating",
+          "Eating Challenge",
+          "Gordon Ramsay",
+          "Gordon Ramsay Burger",
+          "Las Vegas",
+          "Nevada",
+          "Vegas Strip",
+          "Planet Hollywood",
+          "Burger",
+          "Cheeseburger",
+          "Hamburger",
+          "Gourmet Burger",
+          "Expensive Food"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I ate EVERY BURGER at Gordon Ramsay's Restaurant (Full Menu)",
+          "description": "Make sure to download Opera for free using my link: https://opr.as/Opera-browser-mattstonie\nVideo sponsored by: Oprea\n\nWe tasted & ranked Every Single Gordon Ramsay Burger in a Tier List!!\n\nI love my job\n\nENJOY!!!\n\n---Socials & Stuff----\nFACEBOOK - https://www.facebook.com/mattmegatoadstonie\nINSTAGRAM - https://www.instagram.com/matt_stonie\nTWITCH - https://www.twitch.tv/mattstonie\nTIKTOK - https://vm.tiktok.com/ZMRheEAwc/\nTWITTER - https://www.twitter.com/mattstonie\nSTONIE BOWLS - https://stoniebowls.com/\n\nMailing Address:\nP.O. Box 28519\nLas Vegas, NV 89102\n\nCredits:\nRoyalty Free Music by http://audiomicro.com/royalty-free-music\nMusic and Sound Effects from Video CoPilot's \"Proscores\" & \"Design Studio FX\"\nMusic from Epidemic Sounds"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "443974",
+        "likeCount": "23322",
+        "favoriteCount": "0",
+        "commentCount": "1175"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KjB7UyAPOJgVCj8GVCpYKjNdOTE",
+      "id": "AcmKeh0lnTQ",
+      "snippet": {
+        "publishedAt": "2024-11-28T16:00:15Z",
+        "channelId": "UCdmcAwbdiXQWs9d4Qd4KzDw",
+        "title": "Secret Garage Update #12 The biggest project I’ve ever started",
+        "description": "🎉 Be one of the first 30 customers to get the Exclusive Holiday Deals You Don’t Want to Miss! 🎉\n🔥 Ace Pro: Get it at 33% off and a free Multi Mount tripod: https://bit.ly/ColinFurze-AcePro-ExclusiveOffer\n🔥 Insta360 X4: Get it for 15% off and a free Bullet Time Kit: https://bit.ly/ColinFurze-X4-ExclusiveOffer\n\nGet your Furze Mining Company Tee's n Mug here https://www.colinfurzeshop.com\nBuy both and get a signed Xmas card \"Limited stock\"\n\nProgress is slow but thanks for your support it's been a tough but excellent project.\n\nOnly music is over the AcePro talking bit and is a song called \"Dolce and Cabana\" by the Galivantes\"\nhttps://open.spotify.com/artist/1jLJGaMOZ68r0pPyTUoBSv\n\n#colinfurze #secretgarage #secrettunnel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AcmKeh0lnTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AcmKeh0lnTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AcmKeh0lnTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AcmKeh0lnTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AcmKeh0lnTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "2 Much ColinFurze",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Secret Garage Update #12 The biggest project I’ve ever started",
+          "description": "🎉 Be one of the first 30 customers to get the Exclusive Holiday Deals You Don’t Want to Miss! 🎉\n🔥 Ace Pro: Get it at 33% off and a free Multi Mount tripod: https://bit.ly/ColinFurze-AcePro-ExclusiveOffer\n🔥 Insta360 X4: Get it for 15% off and a free Bullet Time Kit: https://bit.ly/ColinFurze-X4-ExclusiveOffer\n\nGet your Furze Mining Company Tee's n Mug here https://www.colinfurzeshop.com\nBuy both and get a signed Xmas card \"Limited stock\"\n\nProgress is slow but thanks for your support it's been a tough but excellent project.\n\nOnly music is over the AcePro talking bit and is a song called \"Dolce and Cabana\" by the Galivantes\"\nhttps://open.spotify.com/artist/1jLJGaMOZ68r0pPyTUoBSv\n\n#colinfurze #secretgarage #secrettunnel"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "655071",
+        "likeCount": "47811",
+        "favoriteCount": "0",
+        "commentCount": "1625"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TAP9QqjND1IhskeyJ7Eahr4Pf4s",
+      "id": "TDGbsP_CN0M",
+      "snippet": {
+        "publishedAt": "2024-11-28T21:45:14Z",
+        "channelId": "UCQpbsCYqUl-KfJL_X_TDrHg",
+        "title": "HIGHLIGHTS | Deji vs. Dawood Savage | X-Series 19 - Qatar The Supercard",
+        "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TDGbsP_CN0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TDGbsP_CN0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TDGbsP_CN0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TDGbsP_CN0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TDGbsP_CN0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN X Series",
+        "tags": [
+          "boxing",
+          "influencers",
+          "ksi",
+          "social media",
+          "crossover boxing",
+          "x series",
+          "dazn",
+          "dazn x",
+          "misfits",
+          "misfits boxing"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HIGHLIGHTS | Deji vs. Dawood Savage | X-Series 19 - Qatar The Supercard",
+          "description": "Subscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉 http://DAZN.com/youtube\n\nFollow DAZN X Series On Social Media 👇\nTwitter: https://twitter.com/MF_DAZNXSeries \nInstagram: https://www.instagram.com/mf_daznxseries\nFacebook: https://www.facebook.com/DAZN\n\n#boxing #dazn"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "294033",
+        "likeCount": "6597",
+        "favoriteCount": "0",
+        "commentCount": "762"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G4VUAAU-A1dp78FhDrjBO2Yu9tg",
+      "id": "UZD-pGyFrEw",
+      "snippet": {
+        "publishedAt": "2024-11-28T16:00:33Z",
+        "channelId": "UC0ifXd2AVf1LMYbqwB5GH4g",
+        "title": "Polo G - No More Heroes (Official Video)",
+        "description": "Polo G \"No More Heroes\" Out Now: https://polog.lnk.to/NoMoreHeroes\n\nOfficial video for Polo G \"No More Heroes\" \n \n---\n \nFollow Polo G\nFacebook - https://www.facebook.com/pologofficial/\nInstagram - https://www.instagram.com/polo.capalot/\nTwitter - https://twitter.com/Polo_Capalot\nTikTok - https://www.tiktok.com/@pologofficial\n \nwww.thehoodpoet.com\n \n#PoloG #NoMoreHeroes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZD-pGyFrEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZD-pGyFrEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZD-pGyFrEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UZD-pGyFrEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UZD-pGyFrEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Polo G",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Polo G - No More Heroes (Official Video)",
+          "description": "Polo G \"No More Heroes\" Out Now: https://polog.lnk.to/NoMoreHeroes\n\nOfficial video for Polo G \"No More Heroes\" \n \n---\n \nFollow Polo G\nFacebook - https://www.facebook.com/pologofficial/\nInstagram - https://www.instagram.com/polo.capalot/\nTwitter - https://twitter.com/Polo_Capalot\nTikTok - https://www.tiktok.com/@pologofficial\n \nwww.thehoodpoet.com\n \n#PoloG #NoMoreHeroes"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": ["RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "241257",
+        "likeCount": "27909",
+        "favoriteCount": "0",
+        "commentCount": "2063"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wzj5VXeAIYV3hoiu1NvrOsVm0IA",
+      "id": "7fS04X3Qy4Y",
+      "snippet": {
+        "publishedAt": "2024-11-27T22:21:43Z",
+        "channelId": "UCET00YnetHT7tOpu12v8jxg",
+        "title": "Liverpool vs. Real Madrid: Extended Highlights | UCL League Phase MD 5 | CBS Sports Golazo",
+        "description": "Liverpool are the only team left still with a perfect record. While Real Madrid beat Stuttgart and Borussia Dortmund but lost to Lille and AC Milan.\n\n#UCL #ChampionsLeague #Liverpool #RealMadrid\n\nStream every UEFA Champions League match live on Paramount+: http://bit.ly/UCLonParamount\n\nWatch all the extended highlights from the UEFA Champions League HERE: http://bit.ly/ChampionsLeagueExtendedHighlights \n\nWatch the epic UCL punditry from Thierry Henry, Micah Richards, and Jamie Carragher HERE: http://bit.ly/CBSSportsGolazo\n\nFollow us across our social media! \n○ TWITTER: http://twitter.com/CBSSportsGolazo\n○ FACEBOOK: http://facebook.com/CBSSportsGolazo/\n○ INSTAGRAM: http://instagram.com/cbssportsgolazo\n○ TIK TOK: http://tiktok.com/@cbssportsgolazo\n\nSubscribe to our other CBS Sports Golazo channels!\nhttps://www.youtube.com/@CBSSportsGolazoEurope\nhttps://www.youtube.com/@attackingthird\nhttps://www.youtube.com/@cbssportsgolazo-asia\nhttps://www.youtube.com/CBSSportsGolazo-SouthAmerica\n\nHome of Serie A, NWSL, Concacaf Men's and Women's Nations League and World Cup Qualifiers, Argentina’s Liga Profesional de Fútbol, Brazil’s Campeonato Brasileirão Série A and UEFA men’s club competitions including the Europa League, Europa Conference League and... 🎶 THE CHAAAMPIONSSS 🎶",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fS04X3Qy4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fS04X3Qy4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fS04X3Qy4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fS04X3Qy4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fS04X3Qy4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sports Golazo",
+        "tags": [
+          "Champions League",
+          "Europa League",
+          "Soccer",
+          "UEFA",
+          "UCL",
+          "European Soccer",
+          "European Football",
+          "European Futbol",
+          "UEL",
+          "UCL Highlights",
+          "Champions League Highlights",
+          "Football",
+          "CBS Golazo",
+          "CBS",
+          "Micah Richards",
+          "Jamie Carragher",
+          "Thierry Henry",
+          "CBS Studio"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Liverpool vs. Real Madrid: Extended Highlights | UCL League Phase MD 5 | CBS Sports Golazo",
+          "description": "Liverpool are the only team left still with a perfect record. While Real Madrid beat Stuttgart and Borussia Dortmund but lost to Lille and AC Milan.\n\n#UCL #ChampionsLeague #Liverpool #RealMadrid\n\nStream every UEFA Champions League match live on Paramount+: http://bit.ly/UCLonParamount\n\nWatch all the extended highlights from the UEFA Champions League HERE: http://bit.ly/ChampionsLeagueExtendedHighlights \n\nWatch the epic UCL punditry from Thierry Henry, Micah Richards, and Jamie Carragher HERE: http://bit.ly/CBSSportsGolazo\n\nFollow us across our social media! \n○ TWITTER: http://twitter.com/CBSSportsGolazo\n○ FACEBOOK: http://facebook.com/CBSSportsGolazo/\n○ INSTAGRAM: http://instagram.com/cbssportsgolazo\n○ TIK TOK: http://tiktok.com/@cbssportsgolazo\n\nSubscribe to our other CBS Sports Golazo channels!\nhttps://www.youtube.com/@CBSSportsGolazoEurope\nhttps://www.youtube.com/@attackingthird\nhttps://www.youtube.com/@cbssportsgolazo-asia\nhttps://www.youtube.com/CBSSportsGolazo-SouthAmerica\n\nHome of Serie A, NWSL, Concacaf Men's and Women's Nations League and World Cup Qualifiers, Argentina’s Liga Profesional de Fútbol, Brazil’s Campeonato Brasileirão Série A and UEFA men’s club competitions including the Europa League, Europa Conference League and... 🎶 THE CHAAAMPIONSSS 🎶"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT11M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["US"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1048446",
+        "likeCount": "12938",
+        "favoriteCount": "0",
+        "commentCount": "2036"
+      }
+    }
+  ],
+  "nextPageToken": "CBQQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 20
+  }
+}

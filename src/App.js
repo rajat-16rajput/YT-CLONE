@@ -10,7 +10,6 @@ import MainContainer from "./Components/MainContainer.js";
 import About from "./Components/About.js";
 import Shorts from "./Components/Shorts.js";
 function App() {
-  console.log("Component rendered");
   return (
     <Provider store={store}>
       <>
@@ -30,25 +29,25 @@ export const myRoute = createBrowserRouter([
       {
         path: "/",
         element: <MainContainer />,
-        errorElement: <Error />,
+        errorElement: <Error />
       },
       {
         path: "watch",
         element: <WatchPage />,
-        errorElement: <Error />,
+        errorElement: <Error />
       },
       {
         path: "about",
         element: <About />,
-        errorElement: <Error />,
+        errorElement: <Error />
       },
       {
         path: "shorts",
         element: <Shorts />,
-        errorElement: <Error />,
-      },
-    ],
-  },
+        errorElement: <Error />
+      }
+    ]
+  }
 ]);
 
 export default App;

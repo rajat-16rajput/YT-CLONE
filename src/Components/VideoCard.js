@@ -32,4 +32,12 @@ const VideoCard = ({ data }) => {
   );
 };
 
+export const AdvCard = ({ data }) => {
+  return (
+    <div className="border border-red-700 p-1 m-1">
+      <VideoCard data={data} />
+    </div>
+  );
+};
+
 export default VideoCard;

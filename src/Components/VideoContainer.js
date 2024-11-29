@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useEffect } from "react";
-import VideoCard from "./VideoCard";
+import VideoCard, { AdvCard } from "./VideoCard";
 import { YOUTUBE_VIDEO_API } from "../Utils/Constants";
 import { Link } from "react-router-dom";
 import Shimmer from "../Utils/Shimmer";
@@ -16,13 +16,17 @@ const VideoContainer = () => {
   }, []);
 
   async function fetchData() {
-    const data = await fetch(YOUTUBE_VIDEO_API);
-    const json = await data.json();
-    setData(json?.items);
-    setSearchData(json?.items);
+    try {
+      const data = await fetch(YOUTUBE_VIDEO_API);
+      const json = await data.json();
+      setData(json?.items);
+      setSearchData(json?.items);
+    } catch (err) {
+      console?.error(err);
+    }
   }
 
-  console.log(data);
+  // console.log(data);
 
   function filterList() {
     const filteredList = data.filter(
@@ -78,9 +82,12 @@ const VideoContainer = () => {
       <div className="p-2 m-2 flex flex-wrap justify-items-stretch">
         {searchData.map((data) => {
           return (
-            <Link to={"watch?v=" + data.id}>
-              <VideoCard key={data?.id} data={data} />
-            </Link>
+            <>
+              {data[0] && <AdvCard data={data[0]} />}
+              <Link key={data?.id} to={"watch?v=" + data.id}>
+                <VideoCard data={data} />
+              </Link>
+            </>
           );
         })}
       </div>

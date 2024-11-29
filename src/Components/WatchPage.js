@@ -6,13 +6,14 @@ import { useSearchParams } from "react-router-dom";
 const WatchPage = () => {
   const dispatch = useDispatch();
   const [vidId] = useSearchParams();
-  console.log(vidId.get("v"));
+  // console.log(vidId.get("v"));
+
   useEffect(() => {
     closeSidebarHandler();
   }, [closeSidebarHandler]);
 
   function closeSidebarHandler() {
-    console.log("closeSidebarHandler called");
+    // console.log("closeSidebarHandler called");
     dispatch(closeSidebar());
   }
   return (
