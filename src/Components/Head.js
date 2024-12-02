@@ -96,8 +96,8 @@ const Head = () => {
           <div className="absolute top-20 left-80 bg-white py-4 px-5 w-[47rem] ">
             <>
               <ul>
-                {searchData.map((entry) => {
-                  return <li>{entry}</li>;
+                {searchData.map((entry, index) => {
+                  return <li key={index}>{entry}</li>;
                 })}
               </ul>
             </>

@@ -82,12 +82,11 @@ const VideoContainer = () => {
       <div className="p-2 m-2 flex flex-wrap justify-items-stretch">
         {searchData.map((data) => {
           return (
-            <>
-              {data[0] && <AdvCard data={data[0]} />}
+            <div key={data?.id}>
               <Link key={data?.id} to={"watch?v=" + data.id}>
                 <VideoCard data={data} />
               </Link>
-            </>
+            </div>
           );
         })}
       </div>
